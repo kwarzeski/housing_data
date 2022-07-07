@@ -1,0 +1,11 @@
+https://www.huduser.gov/portal/datasets/hads/hads.html
+Housing Affordability Data System (HADS) Data from HUD for 1985 - 2013
+
+files are labelled txt files, but are csvs
+Columns/Data included:
+Age of head of household, Median Income Adjusted for # of Persons, Assisted Housing, # of bedrooms in unit, Year unit was built, Housing cost as a fraction of income, Fair market rent (average), Cost Burden, CENTRAL CITY / SUBURBAN STATUS, Owner/Renter Status (adjusted), Census Region, Structure Type, # of persons in household, Total Wage Income, Monthly utility cost, Monthly housing costs, Household Income
+
+Datasets from Census.gov:
+Historical Living Arrangements of Adults 1960-Present
+Multiple Excel Files
+https://www.census.gov/data/tables/time-series/demo/families/adults.html
