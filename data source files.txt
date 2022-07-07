@@ -9,3 +9,7 @@ Datasets from Census.gov:
 Historical Living Arrangements of Adults 1960-Present
 Multiple Excel Files
 https://www.census.gov/data/tables/time-series/demo/families/adults.html
+
+St Louis Fed Housing Data
+Lots of individual data points going back pretty far (Ex: # of units sold each quarter, price index per quarter) Lots of data going far back, but would need to be combined for machine learning.
+https://fred.stlouisfed.org/categories/97
