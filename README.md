@@ -13,7 +13,7 @@ The dataset is a CSV file that contains information on 13,932 single-family home
 
 Information from this dataset by the columns and their descriptions:
 
-* PARCELNO: unique identifier for each property. About 1% appear multiple times.
+* PARCELNO: unique identifier for each property. About 1% appear multiple times (removed from dataset)
 * SALE_PRC: sale price ($)
 * LND_SQFOOT: land area (square feet)
 * TOTLVGAREA: floor area (square feet)
@@ -28,8 +28,8 @@ Information from this dataset by the columns and their descriptions:
 * avno60plus: dummy variable for airplane noise exceeding an acceptable level
 * structure_quality: quality of the structure
 * month_sold: sale month in 2016 (1 = jan)
-* LATITUDE
-* LONGITUDE
+* LATITUDE (bins created to group)
+* LONGITUDE (bins created to group)
 
 ## The Objective
 * Identify the factors within this dataset that might influence the sale and price of a single-family home in Miami, FL.
