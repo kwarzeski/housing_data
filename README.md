@@ -57,7 +57,7 @@ Latitude and longitude were kept as a separate table in preparation for graphing
 2. Location
 3. Target
 
-## Preliminary Dashboard
+## The Preliminary Dashboard
 
 Link to Google Slides: https://docs.google.com/presentation/d/1QIL4Q2CGalK6UhJ39ddxTuKVrbgfWWMYqk2gx9GkZpo/edit#slide=id.g13c486d082e_0_52
 
