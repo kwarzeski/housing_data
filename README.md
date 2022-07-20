@@ -33,7 +33,7 @@ Information from the original dataset by the columns and their descriptions:
 
 ## The Objective
 * Identify the factors within this dataset that might influence the sale and price of a single-family home in Miami, FL.
-* Our goal is to calculate or predict the price of single family-homes in Miami, FL using logistical regression model.
+* Our goal is to predict whether a single family-home in Miami, FL will sell for above or below the average using linear regression model.
 
 ## Preliminary Data Processing
 
