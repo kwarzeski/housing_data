@@ -133,6 +133,8 @@ The structure of the homes sold by feature category and trends:
 
 ## Machine Learning
 
+With a model score of 0.69, there are inherent limitations with this prediction model. The limitations of this model score can be seen with the comparison between predicted sales price and the actual sales price of the homes sold from this 2016 dataset. The accuracy of this linear regression model varies. 
+
 ![image](https://user-images.githubusercontent.com/96931376/180338823-f2206bac-c057-4ce3-9018-cfd676c4e882.png)
 
 ![image](https://user-images.githubusercontent.com/96931376/180338845-fa6b8ec4-3c99-4190-b9f7-bf4da20f4755.png)
