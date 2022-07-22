@@ -131,8 +131,15 @@ The structure of the homes sold by feature category and trends:
 
 ![image](https://user-images.githubusercontent.com/96931376/180337347-5e9c8395-8c37-4eb9-adba-d85d782ff0ec.png)
 
-
 ## Machine Learning
+
+![image](https://user-images.githubusercontent.com/96931376/180338823-f2206bac-c057-4ce3-9018-cfd676c4e882.png)
+
+![image](https://user-images.githubusercontent.com/96931376/180338845-fa6b8ec4-3c99-4190-b9f7-bf4da20f4755.png)
+
+![image](https://user-images.githubusercontent.com/96931376/180338861-645c91a3-05d0-481b-83cf-408566d5a4a9.png)
+
+![image](https://user-images.githubusercontent.com/96931376/180338874-301ed25d-6a19-4e55-b8d0-64d6f00a6885.png)
 
 
 
