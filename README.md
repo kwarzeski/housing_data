@@ -141,6 +141,18 @@ The structure of the homes sold by feature category and trends:
 
 ![image](https://user-images.githubusercontent.com/96931376/180338874-301ed25d-6a19-4e55-b8d0-64d6f00a6885.png)
 
+## Next Steps
+
+Additional studies would focus on specific variables to analyze how they may influence the sales price of homes sold in Miami, FL. 
+
+Questions to answer with additional studies might include the following: 
+* What are the variables that may play a role in why homes more or less homes are sold in a particular month? 
+* How were the quality of the structure and value of special features assessed and measured as part of this 2016 dataset? 
+* Are there external variables that may have influenced the patterns seen in this 2016 dataset? 
+
+Additional data that may be required for additional studies: 
+* Avg. income of buyers
+* Same and/or similar data from the years prior to and after 2016 for a wider range of analysis
 
 
 
