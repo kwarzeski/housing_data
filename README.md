@@ -141,6 +141,8 @@ With a model score of 0.69, there are inherent limitations with this prediction 
 
 ![image](https://user-images.githubusercontent.com/96931376/180338861-645c91a3-05d0-481b-83cf-408566d5a4a9.png)
 
+![image](https://github.com/kwarzeski/housing_data/blob/main/feature_import.png)
+
 ![image](https://user-images.githubusercontent.com/96931376/180338874-301ed25d-6a19-4e55-b8d0-64d6f00a6885.png)
 
 ## Next Steps
