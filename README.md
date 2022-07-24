@@ -61,6 +61,8 @@ Latitude and longitude were kept as a separate table in preparation for graphing
 
 Link to Google Slides: https://docs.google.com/presentation/d/1QIL4Q2CGalK6UhJ39ddxTuKVrbgfWWMYqk2gx9GkZpo/edit#slide=id.g13c486d082e_0_52
 
+Link to Tableau Worksheets:  https://public.tableau.com/app/profile/brandon.l.miller/viz/Miami_Housing_Data/
+
 Using Tableau, this map shows all the homes sold in Miami, FL from this 2016 dataset. High level trends can be seen based on the sale prices of homes sold and the geographical location. These trends are supported by additional graphs below. 
 
 ![image](https://user-images.githubusercontent.com/96931376/180333216-31c36142-2316-4ea8-bd36-9f74b9fe2cd4.png)
